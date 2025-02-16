@@ -1,0 +1,6 @@
+streamlit 
+whisper
+torch
+transformers
+gtts
+google.generativeai
